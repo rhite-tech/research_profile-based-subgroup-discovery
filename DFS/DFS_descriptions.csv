@@ -1,0 +1,101 @@
+,description,WRAcc score
+0,{'Checking account': 'unknown'},0.0722
+1,"{'Age': '>=25.5', 'Checking account': 'unknown'}",0.0672
+2,"{'Checking account': 'unknown', 'Credit amount': '<3913.5'}",0.0653
+3,"{'Age': '>=25.5', 'Checking account': 'unknown', 'Credit amount': '<3913.5'}",0.0603
+4,"{'Checking account': 'unknown', 'Housing': 'own'}",0.0592
+5,"{'Age': '>=25.5', 'Checking account': 'unknown', 'Housing': 'own'}",0.0554
+6,"{'Checking account': 'unknown', 'Credit amount': '<3913.5', 'Housing': 'own'}",0.0531
+7,"{'Checking account': 'unknown', 'Job': '2'}",0.0528
+8,"{'Age': '>=25.5', 'Credit amount': '<3913.5', 'Housing': 'own'}",0.0489
+9,"{'Age': '>=25.5', 'Checking account': 'unknown', 'Job': '2'}",0.0482
+10,"{'Checking account': 'unknown', 'Credit amount': '<3913.5', 'Job': '2'}",0.048
+11,"{'Age': '>=25.5', 'Credit amount': '<3913.5'}",0.0459999999999999
+12,"{'Age': '>=25.5', 'Credit amount': '<3913.5', 'Duration': '<15.5'}",0.0453
+13,"{'Credit amount': '<3913.5', 'Duration': '<15.5'}",0.0442
+14,"{'Credit amount': '<3913.5', 'Housing': 'own'}",0.0442
+15,"{'Checking account': 'unknown', 'Housing': 'own', 'Job': '2'}",0.0440999999999999
+16,"{'Checking account': 'unknown', 'Duration': '<15.5'}",0.042
+17,"{'Checking account': 'unknown', 'Credit amount': '<3913.5', 'Duration': '<15.5'}",0.0413
+18,"{'Age': '>=25.5', 'Duration': '<15.5'}",0.0412
+19,{'Duration': '<15.5'},0.0403
+20,"{'Age': '>=25.5', 'Housing': 'own'}",0.0401
+21,"{'Credit amount': '<3913.5', 'Duration': '<15.5', 'Housing': 'own'}",0.0391
+22,"{'Age': '>=25.5', 'Duration': '<15.5', 'Housing': 'own'}",0.0378
+23,"{'Age': '>=25.5', 'Checking account': 'unknown', 'Duration': '<15.5'}",0.0375
+24,"{'Duration': '<15.5', 'Housing': 'own'}",0.0362
+25,"{'Credit amount': '<3913.5', 'Housing': 'own', 'Job': '2'}",0.0348
+26,"{'Age': '>=25.5', 'Credit amount': '<3913.5', 'Job': '2'}",0.0342
+27,{'Credit amount': '<3913.5'},0.033
+28,"{'Age': '>=25.5', 'Checking account': 'unknown', 'Saving accounts': 'little'}",0.0322
+29,"{'Age': '>=25.5', 'Housing': 'own', 'Job': '2'}",0.0315
+30,"{'Checking account': 'unknown', 'Saving accounts': 'little'}",0.0313
+31,"{'Checking account': 'unknown', 'Purpose': 'radio/TV'}",0.0311
+32,"{'Checking account': 'unknown', 'Duration': '<15.5', 'Housing': 'own'}",0.031
+33,"{'Checking account': 'unknown', 'Duration': '>=15.5'}",0.0302
+34,"{'Checking account': 'unknown', 'Duration': '<15.5', 'Job': '2'}",0.0298
+35,"{'Age': '>=25.5', 'Checking account': 'unknown', 'Duration': '>=15.5'}",0.0297
+36,"{'Checking account': 'unknown', 'Credit amount': '<3913.5', 'Saving accounts': 'little'}",0.0296
+37,"{'Age': '>=25.5', 'Checking account': 'unknown', 'Purpose': 'radio/TV'}",0.0286
+38,"{'Age': '>=25.5', 'Credit amount': '<3913.5', 'Purpose': 'radio/TV'}",0.0285
+39,"{'Checking account': 'unknown', 'Duration': '>=15.5', 'Housing': 'own'}",0.0281999999999999
+40,"{'Checking account': 'unknown', 'Credit amount': '<3913.5', 'Purpose': 'radio/TV'}",0.028
+41,{'Housing': 'own'},0.0278999999999999
+42,"{'Age': '>=25.5', 'Duration': '<15.5', 'Job': '2'}",0.0278
+43,"{'Checking account': 'unknown', 'Housing': 'own', 'Saving accounts': 'little'}",0.0272
+44,"{'Age': '>=25.5', 'Purpose': 'radio/TV'}",0.0268
+45,"{'Credit amount': '<3913.5', 'Duration': '<15.5', 'Job': '2'}",0.0265
+46,"{'Checking account': 'unknown', 'Housing': 'own', 'Purpose': 'radio/TV'}",0.0264
+47,"{'Checking account': 'unknown', 'Purpose': 'car'}",0.0262
+48,"{'Duration': '<15.5', 'Job': '2'}",0.0261
+49,"{'Credit amount': '<3913.5', 'Housing': 'own', 'Purpose': 'radio/TV'}",0.0256
+50,"{'Duration': '<15.5', 'Housing': 'own', 'Job': '2'}",0.0256
+51,"{'Age': '>=25.5', 'Checking account': 'unknown', 'Purpose': 'car'}",0.0256
+52,"{'Housing': 'own', 'Job': '2'}",0.0256
+53,"{'Credit amount': '<3913.5', 'Purpose': 'radio/TV'}",0.025
+54,"{'Checking account': 'unknown', 'Job': '2', 'Purpose': 'radio/TV'}",0.0247
+55,"{'Checking account': 'unknown', 'Credit amount': '<3913.5', 'Duration': '>=15.5'}",0.024
+56,"{'Credit amount': '<3913.5', 'Job': '2'}",0.0239
+57,"{'Age': '>=25.5', 'Housing': 'own', 'Purpose': 'radio/TV'}",0.0236
+58,{'Age': '>=25.5'},0.023
+59,"{'Checking account': 'unknown', 'Duration': '>=15.5', 'Job': '2'}",0.023
+60,{'Saving accounts': 'unknown'},0.0229
+61,"{'Credit amount': '<3913.5', 'Duration': '<15.5', 'Saving accounts': 'little'}",0.0224
+62,"{'Housing': 'own', 'Purpose': 'radio/TV'}",0.0221
+63,"{'Checking account': 'unknown', 'Job': '2', 'Saving accounts': 'little'}",0.0221
+64,{'Purpose': 'radio/TV'},0.022
+65,"{'Age': '>=25.5', 'Saving accounts': 'unknown'}",0.0215
+66,"{'Checking account': 'unknown', 'Credit amount': '<3913.5', 'Purpose': 'car'}",0.021
+67,"{'Credit amount': '<3913.5', 'Duration': '<15.5', 'Purpose': 'radio/TV'}",0.0207
+68,"{'Checking account': 'unknown', 'Saving accounts': 'unknown'}",0.0207
+69,"{'Checking account': 'unknown', 'Duration': '<15.5', 'Saving accounts': 'little'}",0.0207
+70,"{'Checking account': 'unknown', 'Housing': 'own', 'Purpose': 'car'}",0.0204
+71,"{'Age': '>=25.5', 'Duration': '<15.5', 'Purpose': 'radio/TV'}",0.0202
+72,"{'Age': '>=25.5', 'Duration': '<15.5', 'Saving accounts': 'little'}",0.0199999999999999
+73,"{'Duration': '<15.5', 'Housing': 'own', 'Saving accounts': 'little'}",0.0197999999999999
+74,"{'Duration': '<15.5', 'Purpose': 'radio/TV'}",0.0196
+75,"{'Duration': '<15.5', 'Saving accounts': 'little'}",0.0195
+76,"{'Age': '>=25.5', 'Job': '2', 'Purpose': 'radio/TV'}",0.0188
+77,"{'Age': '>=25.5', 'Job': '2'}",0.0186
+78,"{'Housing': 'own', 'Job': '2', 'Purpose': 'radio/TV'}",0.0186
+79,"{'Housing': 'own', 'Saving accounts': 'unknown'}",0.018
+80,"{'Credit amount': '<3913.5', 'Saving accounts': 'unknown'}",0.018
+81,"{'Age': '>=25.5', 'Housing': 'own', 'Saving accounts': 'unknown'}",0.0179
+82,"{'Age': '>=25.5', 'Credit amount': '<3913.5', 'Saving accounts': 'unknown'}",0.0177
+83,"{'Age': '>=25.5', 'Checking account': 'unknown', 'Saving accounts': 'unknown'}",0.0177
+84,"{'Duration': '<15.5', 'Housing': 'own', 'Purpose': 'radio/TV'}",0.0174
+85,"{'Credit amount': '<3913.5', 'Job': '2', 'Purpose': 'radio/TV'}",0.0172
+86,"{'Checking account': 'unknown', 'Credit amount': '<3913.5', 'Saving accounts': 'unknown'}",0.0172
+87,"{'Checking account': 'unknown', 'Purpose': 'radio/TV', 'Saving accounts': 'little'}",0.0162
+88,"{'Checking account': 'unknown', 'Job': '2', 'Saving accounts': 'unknown'}",0.0157
+89,"{'Checking account': 'unknown', 'Duration': '<15.5', 'Purpose': 'radio/TV'}",0.0157
+90,"{'Job': '2', 'Purpose': 'radio/TV'}",0.0155
+91,"{'Checking account': 'unknown', 'Duration': '>=15.5', 'Purpose': 'radio/TV'}",0.0154
+92,"{'Duration': '<15.5', 'Job': '2', 'Purpose': 'radio/TV'}",0.0154
+93,"{'Checking account': 'unknown', 'Job': '2', 'Purpose': 'car'}",0.0151
+94,"{'Checking account': 'unknown', 'Housing': 'own', 'Saving accounts': 'unknown'}",0.015
+95,"{'Job': '2', 'Saving accounts': 'unknown'}",0.015
+96,"{'Duration': '<15.5', 'Job': '1'}",0.0146
+97,"{'Credit amount': '<3913.5', 'Housing': 'own', 'Saving accounts': 'unknown'}",0.0146
+98,"{'Checking account': 'unknown', 'Duration': '<15.5', 'Purpose': 'car'}",0.0141999999999999
+99,"{'Age': '>=25.5', 'Job': '2', 'Saving accounts': 'unknown'}",0.0141
