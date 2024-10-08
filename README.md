@@ -2,7 +2,13 @@
 
 This repository corresponds to the Master's thesis in Artificial Intelligence by Dionne Gantzert, at University of Amsterdam, 2024. This research is part of a project on Bias Identification methods initiated by Rhite and has been guided and supervised by Rhite and the University of Amsterdam.
 
-The research introduces Profile-Based Subgroup Discovery, and compares it to two other subgroup discovery techniques: DFS and VLSD. 
+The research introduces Profile-Based Subgroup Discovery, and compares it to two other subgroup discovery techniques: DFS and VLSD.
+
+**⚠️ Note on Code Quality**
+
+Please note that this code was developed as part of a thesis project and, due to time constraints, has not undergone extensive optimization or formal quality checks. While it serves the primary purpose of supporting the research findings, it may not meet industry standards in terms of performance, maintainability, security or robustness.
+
+Users are welcome to use and explore the code, but we recommend careful consideration and further testing before applying it in any production environment. Contributions for improvements or optimizations are also encouraged.
 
 Since this research is based on [PEBAM](https://github.com/mcwilms/PEBAM), we continued the work in notebooks as well. 
 
